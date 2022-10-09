@@ -1,2 +1,1 @@
-# rickysalim123
-tempat ngumpul tugas
+# Introduction Programming with Python
